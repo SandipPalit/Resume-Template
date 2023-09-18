@@ -1,0 +1,11 @@
+{
+  "SOCIAL_MEDIA" : true,
+  "SKILLS" : true,
+  "WORK_EXPERIENCE" : true,
+  "EDUCATION" : true,
+  "PROJECTS" : true,
+  "PUBLICATIONS" : true,
+  "PUBLIC_SPEAKING" : true,
+  "CERTIFICATES" : true,
+  "ACCOMPLISHMENTS" : true
+}

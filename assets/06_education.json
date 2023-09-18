@@ -1,0 +1,20 @@
+{
+  "EDUCATION": [
+    {
+      "COURSE" : "Master of Humanity",
+      "COLLEGE" : "World Academy of Life",
+      "DURATION" : "20XX - 20XX",
+      "DETAILS" : [
+        "Completed Master of Humanity under World Academy of Life in 20XX."
+      ]
+    },
+    {
+      "COURSE" : "Bachelor of Life",
+      "COLLEGE" : "Empathy University",
+      "DURATION" : "20XX - 20XX",
+      "DETAILS" : [
+        "Completed Bachelor of Life under Empathy University in 20XX."
+      ]
+    }
+]
+}

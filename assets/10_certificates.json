@@ -1,0 +1,9 @@
+{
+  "MAX_CERTIFICATES_COLUMNS" : 2,
+    "CERTIFICATES" : {
+        "The Art of Happiness" : "http://www.google.com",
+        "Mindfulness and Self-Awareness" : "http://www.google.com",
+        "Human Connection 101" : "http://www.google.com",
+        "Emotional Intelligence" : "http://www.google.com"
+    }
+}

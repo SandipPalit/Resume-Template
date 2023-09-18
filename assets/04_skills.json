@@ -1,0 +1,9 @@
+{
+  "MAX_SKILLS_COLUMNS" : 5,
+    "SKILLS" : [
+      "Empathetic",
+      "Innovative",
+      "Adaptable",
+      "Collaborative"
+    ]
+}
