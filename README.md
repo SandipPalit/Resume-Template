@@ -1,4 +1,4 @@
-![Resume Template](./documentation/banner.jpg)
+![Resume Template](documentation/banner.jpg)
 
 **I'm excited to introduce my latest creation: an online Resume Template powered by Python and Streamlit 📄**
 
@@ -16,7 +16,7 @@ This dynamic template offers a modern and professional look while allowing you t
 To transform this Resume Template, to your wonderful online Resume, we will follow some simple steps. Starting with getting a copy of the codebase, in our local machine.
 
 To setup the code locally in our machine, we will follow these steps:
-1. Fork this [Resume Template repository](https://github.com/SandipPalit/Resume-Template). ![Fork](./documentation/fork.jpg)
+1. Fork this [Resume Template repository](https://github.com/SandipPalit/Resume-Template). ![Fork](documentation/fork.jpg)
 2. Download the Codebase on your Local machine.
 3. Open the Codebase in PyCharm or any IDE of your choice.
 4. Open Terminal and Run `pip install -r requirements.txt`, to install the necessary libraries.
@@ -35,7 +35,7 @@ Before customizing our code, we will start our streamlit app by running `streaml
 
 Now, all we need to do is, modify the files in the **assets** folder, which has the following file structure.
 
-![Assets File Structure](./documentation/assets_file_structure.jpg)
+![Assets File Structure](documentation/assets_file_structure.jpg)
 
 ###  _icon.png_
 
@@ -246,14 +246,14 @@ To deploy our code, we will follow these steps:
 2. Navigate to [Streamlit Community Cloud](https://streamlit.io/cloud).
 3. **Sign Up** to create your account.
 4. Link your GitHub account.
-5. Navigate to the homepage and click on the **New App** button. ![New App](./documentation/new_app.jpg)
+5. Navigate to the homepage and click on the **New App** button. ![New App](documentation/new_app.jpg)
 6. Update the following configuration.
    * Select your GitHub **Repository**. 
    * Keep the **Branch** as `main`. 
    * Update **Main file path** to `app.py`. 
-   * Customize the **App URL**. ![Deploy Config](./documentation/deploy_config.jpg)
+   * Customize the **App URL**. ![Deploy Config](documentation/deploy_config.jpg)
 7. Click on the **Deploy!** button.
-8. Kindly ensure that, your App is publicly accessible. ![Public Access](./documentation/public_access.jpg)
+8. Kindly ensure that, your App is publicly accessible. ![Public Access](documentation/public_access.jpg)
 
 You can also refer to [How to Deploy Your App to Streamlit Community Cloud](https://www.youtube.com/watch?v=HKoOBiAaHGg) video on Youtube, for more clarification.
 
