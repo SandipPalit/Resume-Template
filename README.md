@@ -21,7 +21,9 @@ To setup the code locally in our machine, we will follow these steps:
 3. Open the Codebase in PyCharm or any IDE of your choice.
 4. Open Terminal and Run `pip install -r requirements.txt`, to install the necessary libraries.
 
-> It will take some time, after which our setup will be completed.
+<br>
+
+It will take some time, after which our setup will be completed.
 
 ## Customize the Resume
 
@@ -229,9 +231,11 @@ This section contains your Accomplishments or Rewards. Kindly add links to the c
 To customize this section, navigate to `/assets/11_accomplishments.json` file and update the following values:
 * **ACCOMPLISHMENTS** : Enter the list of your Accomplishments or Rewards.
 
-> Finally, we have updated all the necessary files and customized our Resume!! Take a short rest, and refresh the webpage.
+<br>
 
-> **3.. 2.. 1.. Your updated Resume is ready!!** 🎉
+Finally, we have updated all the necessary files and customized our Resume!! Take a short rest, and refresh the webpage.
+
+**3.. 2.. 1.. Your updated Resume is ready!!** 🎉
 
 ## Deploy on Streamlit Cloud
 
@@ -253,7 +257,9 @@ To deploy our code, we will follow these steps:
 
 You can also refer to [How to Deploy Your App to Streamlit Community Cloud](https://www.youtube.com/watch?v=HKoOBiAaHGg) video on Youtube, for more clarification.
 
-> **Taadaaaaa!! Your online Resume is ready for new exciting Opportunities!!** 🎊
+<br>
+
+**Taadaaaaa!! Your online Resume is ready for new exciting Opportunities!!** 🎊
 
 ## Examples
 
@@ -272,6 +278,8 @@ If you would like to help us with Feature requests, kindly share them in the [Is
 
 Feel free to reach out to the creator, **Sandip Palit** on [Linkedin](https://www.linkedin.com/in/sandip-palit/).
 
+<br>
+
 ---
 
-> **_Please share your valuable feedback in the [Discussion](https://github.com/SandipPalit/Resume-Template/discussions) tab, and support this [Resume Template repository](https://github.com/SandipPalit/Resume-Template) by giving a 🌟_**.
+**_Please share your valuable feedback in the [Discussion](https://github.com/SandipPalit/Resume-Template/discussions) tab, and support this [Resume Template repository](https://github.com/SandipPalit/Resume-Template) by giving a 🌟_**.
